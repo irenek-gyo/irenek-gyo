@@ -1,7 +1,7 @@
 <h1 align="left"><p align="right"><img src="https://komarev.com/ghpvc/?username=irenek-gyo&label=Profile%20views&color=0e75b6&style=flat" alt="irenek-gyo" width="110" /></p>Hi 👋, I'm Eun Gyo Irene Kang</h1> 
 <h3 align="left"> 🖥️ A passionate full-stack developer from South-Korea</h3>
 
-<h5> ✉️ **irenekang95@gmail.com**  /  Direct Message - instagram : <a href="https://instagram.com/irenek_gyo" target="blank">
+<h5> ✉️ **irenekang95@gmail.com**  /  Direct Message - Instagram : <a href="https://instagram.com/irenek_gyo" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="irenek_gyo" height="15" width="25" /></a>irenek_gyo
 </h5><br/>
 
